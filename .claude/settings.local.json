@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(sudo docker compose:*)",
+      "Bash(rm:*)",
+      "Bash(npm install)",
+      "Bash(mkdir:*)",
+      "Bash(curl:*)"
+    ],
+    "deny": []
+  }
+}
